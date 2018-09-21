@@ -168,8 +168,8 @@ Tapping on a link will take you to relevant materials.
             - [ ] Increase FPS
             - [ ] Decrease memory footprint
         - [ ] Code signing
-        - [ ] Tools
-            - [ ] IDE
+        - [X] Tools
+            - [x] IDE
                 - [ ] Xcode
                     - [ ] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
             - [ ] Swiftlint
